@@ -3,7 +3,7 @@
 
 Paste and run this in your colab notebook in the last cell.
 ```ipython
-!wget -nc https://raw.githubusercontent.com/Aneesh-Gunda/colab_print/blob/main/colab_pdf.py
+!wget -nc https://raw.githubusercontent.com/Aneesh-Gunda/colab_print/main/colab_pdf.py
 from colab_pdf import colab_pdf
 colab_pdf('pandas-assignment.ipynb')
 ```
